@@ -84,4 +84,3 @@ public class PharmacyMain {
         sc.close();
     }
 }
-
